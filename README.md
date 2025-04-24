@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @maheshreddysiddamurthi Cloud DevOps Engineer
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Azure, Python
-- 📫 How to reach me smkr9933@gmail.com
--  I am very much intrested to work free with startup companies if have a good Idea
--  LinkedIn: linkedin.com/in/mahesh-reddy-siddamurthi-bb8a8523a
+👋 Hi, I'm Mahesh Reddy Siddamurthi!
+💻 Cloud DevOps Engineer | 🚀 Passionate about AI/ML
 
+👀 Interests: Exploring the world of Artificial Intelligence & Machine Learning
+
+🌱 Currently Learning: Azure & Python to enhance my cloud and automation skills
+
+💡 Open to Collaboration: I’d love to work for free with startups that have exciting ideas
+
+📫 Reach me at: smkr9933@gmail.com
+
+🔗 Connect on LinkedIn: linkedin.com/in/mahesh-reddy-siddamurthi-bb8a8523a
