@@ -1,5 +1,8 @@
 👋 Hi, I'm Mahesh Reddy Siddamurthi!
-💻 Cloud DevOps Engineer | 🚀 Passionate about AI/ML
+
+💻 Cloud DevOps Engineer 
+
+🚀 Passionate about AI/ML
 
 👀 Interests: Exploring the world of Artificial Intelligence & Machine Learning
 
