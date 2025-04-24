@@ -2,8 +2,6 @@
 
 💻 Cloud DevOps Engineer 
 
-🚀 Passionate about AI/ML
-
 👀 Interests: Exploring the world of Artificial Intelligence & Machine Learning
 
 🌱 Currently Learning: Azure & Python to enhance my cloud and automation skills
