@@ -2,11 +2,9 @@
 
 💻 Cloud DevOps Engineer 
 
-👀 Interests: Exploring the world of Artificial Intelligence & Machine Learning
-
 🌱 Currently Learning: Azure & Python to enhance my cloud and automation skills
 
-💡 Open to Collaboration: I’d love to work for free with startups that have exciting ideas
+💡 Open to Collaboration: I am enthusiastic about offering my skills free of charge to startups working on innovative ideas
 
 📫 Reach me at: smkr9933@gmail.com
 
