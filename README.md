@@ -2,7 +2,7 @@
 
 💻 Cloud DevOps Engineer 
 
-🌱 Currently Learning: Azure & Python to enhance my cloud and automation skills
+🌱 Currently Learning: Azure & Java Script to enhance my cloud and coding skills
 
 💡 Open to Collaboration: I am enthusiastic about offering my skills free of charge to startups working on innovative ideas
 
